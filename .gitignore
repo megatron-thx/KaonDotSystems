@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+# dependencies
+vcpkg/
+
+# Ignore CMake build directories
+build/
+*/build/
