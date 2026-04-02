@@ -6,7 +6,7 @@ Generate Diagrams that can open documents
 ``` bash
 cd /path/to/your/repo
 git config --local user.name "megatron.thx"
-git config --local user.email "megatron.thx@proton.me"
+git config --local user.email "megatron.thx@vx1"
 
 # main -> master
 git branch -M master
