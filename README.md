@@ -9,6 +9,11 @@ git config --local user.name "megatron.thx"
 git config --local user.email "megatron.thx@vx1"
 
 # main -> master
+# best creating the project in gihub
+# go to rename branch
+https://github.com/megatron-thx/KaonDotSystems/branches
+
+
 git branch -M master
 git remote set-url origin git@github-megatron:megatron-thx/KaonDotSystems.git
 git push -u origin master
